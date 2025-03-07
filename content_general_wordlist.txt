@@ -792,7 +792,6 @@ sphinx-graphiql
 testz
 readme.gzip
 43516992
-?s
 sample
 kraken.json
 .patches
@@ -15300,7 +15299,6 @@ vet.txt
 cgi.pl
 activar
 Passwords.txt
-?i
 wage
 comet
 bots.gzip
@@ -16221,7 +16219,6 @@ admin_users
 adShow
 upgrade_1.0.sql
 call
-?t
 testSentry
 links.php
 app/config/parameters_scim.yaml
