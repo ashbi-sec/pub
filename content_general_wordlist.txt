@@ -30,7 +30,6 @@ php.old
 GetHubs
 webbuilder/script/locale/wb-lang-zh_cn.js
 kdocker
-jobmanager/logs/..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252ftmp%252fpoc
 censtore
 usdc.txt
 administrator.pl
@@ -413,7 +412,6 @@ reiser
 beans.json
 informs
 .ssh/id_ecdsa_key
-web_shell_cmd.gch
 prebilling
 nudester
 .contracts
@@ -860,7 +858,6 @@ insurance.7z
 phpsimplechoose
 .tar.bz2
 code/api/.env
-shell-smoke-test.sh
 mz.php
 MonthCount
 base/goexjs
@@ -1090,7 +1087,6 @@ resources/config/services.yml
 dir.php
 Install.md
 eicon
-static/%2e%2e%3b
 isTiming
 cgi-bin/supervisor/adcommand.cgi
 rathaphan.gzip
@@ -1479,7 +1475,6 @@ salary
 ovirt-engine
 config.inc.php-save
 adminemails.php
-phpshell17.php
 upped.txt
 .buildkite/pipeline.json
 hitech
@@ -1579,9 +1574,7 @@ messagebroker/amfsecure
 settings.dat
 renew
 ckeditor/ckfinder/core/connector/aspx/connector.aspx
-evil%e3%80%82com
 db1.mdb
-javax.faces.resource.../
 polls_admin
 config.hash
 git-prompt.sh
@@ -1593,7 +1586,6 @@ sysnode
 sqli
 exam-users
 _log/
-admin%20/
 2FA.txt
 wjkj20150202/kj20150202/config.js
 saveVideos
@@ -1761,7 +1753,6 @@ masqmail
 pma2015
 TEMP/
 tested.json
-%20admin%20
 wp-includes/js/.git/config
 bin/company.web.api.dll
 convert3
@@ -1817,7 +1808,6 @@ app/config/packages/test/routing.xml
 .asp.bak
 log/firewall.log
 enter.zip
-admin/../admin
 ~shutdown
 inc/config.php
 getCarPlan
@@ -2158,7 +2148,6 @@ saveStu
 backup.sqlitedb
 .env.backup
 44444.txt
-php-reverse-shell.php
 nc9r
 TbUser
 boto.py
@@ -2273,7 +2262,6 @@ huiwen
 shprBlList
 venturi
 sql.sql.tar
-%2e%2e;test
 Steal
 prevx
 .gemtest
@@ -2730,7 +2718,6 @@ quinn
 servlet/snoopservlet
 perlbot
 1.sql.tar.bz2
-%3f
 index/login/register
 editor/tiny_mce
 realEvents
@@ -2767,7 +2754,6 @@ js/chat/chat.js
 wp-content/uploads/wordpress.sql
 TvCreateQR
 apche
-static..%3B
 11.txt
 v1/info
 balances.gzip
@@ -2838,7 +2824,6 @@ disable
 createSign
 api/config.js
 men&mice
-.shell.pre-oh-my-zsh
 results
 GetPost
 rofl.txt
@@ -3130,7 +3115,6 @@ phplister
 compteur
 splatt
 spinworks
-shell.cfm.html
 farsinews
 app/config/config.yml
 dateRating
@@ -3244,7 +3228,6 @@ bitrix/modules/main/classes/mysql/agent.php
 .7z
 vendor/phpunit/util/php/eval-stdin.php
 front-app/.env
-.cobalt/sysmanage/../admin/.htaccess
 offer-sync
 authen
 speciality
@@ -3494,7 +3477,6 @@ city.get
 billing
 netcomm
 sane.php
-admin%20
 admin3/
 domain/cmd.php
 web-inf/classes/applicationcontext.xml
@@ -3530,7 +3512,6 @@ calculator
 AdminConnections
 integrator.js
 cafe
-ftpshell
 blocklists.php
 payment22
 stage_create_service_prod.sh
@@ -3592,7 +3573,6 @@ uploaded.txt
 admin_web.asp
 develop
 common/.git/config
-fxcodeshell.jsp
 .ssh/id_ecdsa_sk.key~
 win
 test/python/test.py
@@ -3833,7 +3813,6 @@ massages
 microsys
 deleteme.txt
 facileforms
-accessible/..;/admin
 earlyimpact
 goahead
 rlogin
@@ -4042,7 +4021,6 @@ mimanet
 fileprotection
 facebook
 sxd
-c99_webshell.php
 manage/admin.asp
 qmail
 fml-client-latest.log
@@ -4097,7 +4075,6 @@ ssologin
 google/login
 giveadmin
 sql
-bdotw44shell.php
 svn.revision
 Files/search.indexes
 ~user4
@@ -4273,7 +4250,6 @@ tmp/whmcs.php
 libs.feed.xml
 newEnquiry
 setups.txt
-Ani-Shell.php
 domaincontact.wsdl
 dir
 test1.html
@@ -4528,7 +4504,6 @@ testlog.txt
 other
 health.rar
 dupedlist.txt
-%c0%ae%c0%ae%c0%af
 web-inf/trinidad-config.xml
 airports
 databases
@@ -4837,7 +4812,6 @@ recourse
 PrePay
 websight
 _reports
-%2e/admin
 login.seam
 examen
 o'fallon
@@ -4899,7 +4873,6 @@ boot.php
 config.test.py
 phone.zip
 plugins/servlet/oauth/users/icon
-%e5%bc%80%e5%a5%96%e6%96%87%e4%bb%b6/config.js
 admin_cd
 azdg
 sys_check
@@ -5000,7 +4973,6 @@ spaw2/dialogs/dialog.php
 iiop/clientclose
 mollensoft
 shopgrid
-bdshell.php
 .remote
 .binstar.yml
 microTasks
@@ -5026,7 +4998,6 @@ akiva
 you.jpg
 safe.zip
 95054057
-cmfshell.cmf
 administrare
 htmlcov/
 public/storage
@@ -5037,7 +5008,6 @@ summaries
 adminapi
 dot
 chatter.php
-boekj/%e5%bc%80%e5%a5%96%e5%99%a8/config.js
 safe.php
 oreilly
 nihuo
@@ -5238,7 +5208,6 @@ marty
 phpMyAdmin-2.8.4/
 test30
 diary
-index.asp../1.php
 passwords.txt
 oneatlas
 .bithoundrc
@@ -5326,7 +5295,6 @@ tftpboot
 ses.php
 installation
 yandex.html
-apps/sling/config/org.apache.felix.webconsole.internal.servlet.OsgiManager.config/jcr%3content/jc%3adata
 userHouse
 assets/.gitignore
 production
@@ -5703,7 +5671,6 @@ PIC
 area
 openfire-test_plugin.zip
 processlogin.asp
-pk10%e5%bc%80%e5%a5%96%e5%99%a8/kkjj/config.js
 joomla_admin
 36065be037550b88c95457ee2bd8dd0b.php
 forum/phpmyadmin/
@@ -5717,7 +5684,6 @@ tencent
 phpmyadmin-3.2.0
 area.inc
 app/config/adminConf.json
-shell.html
 admin_users.tpl
 backups.gzip
 tripsheets
@@ -6019,7 +5985,6 @@ taps
 crx
 calllog
 siteserver/publishing/viewcode.asp
-%2e%2e;test/
 admincontrol.aspx
 well-known.zip
 .wp-config.php.swp
@@ -6180,7 +6145,6 @@ postrules
 sm2j
 .hg/store/undo
 vue/vuecli/.env
-./../proc
 placeholder_two
 libs/spaw2/dialogs/dialog.php
 graphiql.php
@@ -6886,7 +6850,6 @@ heysoft
 ATT.txt
 bitrix/php_interface/dbconn.bak
 web.config.2
-..;/examples/servlets/index.html
 wsadmin.valout
 test3.txt
 follett
@@ -7034,7 +6997,6 @@ _cat
 s3-url
 api/auth
 thuemmler
-webr00tshell2.php
 reviewhelpful
 users.sql.tgz
 b_admin
@@ -7082,7 +7044,6 @@ app/config/services.yaml
 vacationrentalscript
 bots.php
 verify-test-images.sh
-h4ntu_shell_[powered_by_tsoi].php
 .modman/
 index.tmp
 wp-content/blogs.dir
@@ -7160,7 +7121,6 @@ users.sql.rar
 fckeditor/editor/dtd/fck_dtd_test.html
 admin_manage
 logon/logon.html
-Rootshell.v.1.0.php
 stats/panel
 feimacms.sql
 aphtpasswd.html
@@ -7366,7 +7326,6 @@ editor-4.0.1.php
 oprocmgr-service
 kacheList
 netwosix
-NCC-Shell.php
 genapk
 blog/wp-content/backups
 psattachservlet
@@ -7582,7 +7541,6 @@ logs/output.log
 config.inc.php.orig
 endowments
 editor-4.2.1-en.php
-%3f/
 ccms_utf8.sql
 wordpress/wp-includes/wlwmanifest.xml
 gost
@@ -7648,7 +7606,6 @@ insertdoc
 altavista
 boramae
 wp-config.php.dev
-shell
 emucms
 logout.htm
 admincall
@@ -7688,7 +7645,6 @@ duware
 adminarea/login.js
 openjournal
 opens.zip
-shell.txt
 deals
 skyApi
 phpMyAdmin-2.11.1/
@@ -7773,7 +7729,6 @@ pre-push.sample
 live.zip
 config/packages/test/validator.yaml
 otpravit.txt
-xy_%e5%bc%80%e5%a5%96%e5%99%a8/config.js
 kmap
 repos/.env
 .meta
@@ -7926,7 +7881,6 @@ en/.env
 admin_login
 scriptsolutions
 bitrix/managed_cache
-media../.git/config
 saveGraph
 .nyc_output
 antiboard
@@ -7946,7 +7900,6 @@ homeView
 webboa
 newsletteradmin
 admin_area/index.js
-%e5%bc%80%e5%a5%96%e5%99%a8/config.js
 login_user.htm
 jsonConfig
 menu.inc
@@ -8013,7 +7966,6 @@ index.php/user/sign_up
 bottomline
 config/packages/dev/swiftmailer.xml
 wallet_saved.txt
-devilzShell.aspx
 java.php
 vmist
 phpMyAdmin-2.7.0-pl1/
@@ -8051,7 +8003,6 @@ sites/all/libraries/README.txt
 VirtualEms/Login.aspx
 Money.txt
 data.7z
-images../.git/config
 cover.txt
 test_all.sh
 zips.txt
@@ -8144,7 +8095,6 @@ chambers
 phpmyadmin-2.7.0-rc1
 vendor/phpunit/phpunit/build.xml
 get-cities
-ani-shell.php
 gurlchecker
 accounts.html
 admin_reports.php
@@ -8210,7 +8160,6 @@ map-fields
 time-zones
 ftpglide
 connectour
-new%20folder
 powerportal
 jboss/server/default/log
 jobs.yaml
@@ -8218,7 +8167,6 @@ iconsg
 w-channel
 com_admin
 simpleLogin/
-shellz.php
 text.json
 _something_.cfm
 .anaconda3
@@ -8361,7 +8309,6 @@ a-squared
 admin_reset.php
 it
 isapi
-shells.txt
 juniper
 haproxy_stats2
 safe.gzip
@@ -8428,7 +8375,6 @@ xml.php
 msg_gen/
 .vim.custom
 lms
-WebShell.cgi
 __pycache__/
 app/config/packages/html_sanitizer.xml
 heartbeat
@@ -8469,7 +8415,6 @@ back/scripts/jspxcms_choose.js
 tunez
 updateRole
 kafka-cluster-install.sh
-webshell.rb
 db/phpmyadmin2/
 admin/dumper
 kanosue
@@ -8550,7 +8495,6 @@ basic.sh
 ryteUsers
 confluence/plugins/servlet/upm
 domcfg.nsf
-config.inc.php%20-%20copy.php
 usernames.txt
 1/wp-includes/wlwmanifest.xml
 hawthorne
@@ -8617,7 +8561,6 @@ politics
 index2.php
 access.1
 specs
-%7c~.aspx
 mssql.rar
 completed
 systeminfo
@@ -8772,7 +8715,6 @@ administrator/login.html
 cms/vendor/phpunit/phpunit/src/util/php/eval-stdin.php
 houtai/app/kjapi/controller/caipiaotimescontroller.class.php
 token42
-nshell.php
 kadavuccholgal.php
 install_django.sh
 checkins
@@ -8881,7 +8823,6 @@ Backup/
 settings.php.bak
 phpwcms
 application.rar
-%e5%bc%80%e5%a5%96%e7%a8%8b%e5%ba%8f/config.js
 apis/custom.metrics.k8s.io
 _inc
 .zip
@@ -8978,7 +8919,6 @@ nicknames.bak
 kaij/config.js
 phpraid
 service-registry/instance-status
-%2e%2e//google.com
 autotest.net
 kan
 gestion_enseignants.sql
@@ -9126,7 +9066,6 @@ dataset2/.env
 candles
 imprimer
 skillsoft
-php-include-w-shell.php
 .ssh/id_rsa_key~
 saarport
 wp-config.php.9
@@ -9137,7 +9076,6 @@ config.inc.php-sample.php~
 call-center-software
 vendor_sku
 SMS.txt
-r57shell127.php
 fuel/app/logs
 lochist
 phpcounter.sql
@@ -9327,7 +9265,6 @@ submitJobs
 splunk
 userlogin.php
 and
-sshell.php
 searchreplacedb2cli.php
 hck.sql
 editor-4.7.6-mysql-en.php
@@ -9368,7 +9305,6 @@ kek.txt
 cch
 suse
 debug.sh
-../../data/config/microsrv.cfg
 snaps.gzip
 panels.html
 .tfstate
@@ -9617,7 +9553,6 @@ HISTORY.rst
 flashpeak
 cryo_project/.env
 webeveyn
-admin../admin
 nstx
 apis/apps/v1
 pohl
@@ -9735,7 +9670,6 @@ manage/heapdump
 wp-config.php.local
 server.pid
 demo/
-reverseshell-poc.php
 kryptronic
 admin_logon/
 credentials.db
@@ -10060,7 +9994,6 @@ web-inf/conf/search.properties
 wp-config.php.com
 dump.sql.bz2
 final100.txt
-WebShell.php
 .jshintrc
 actuator/resolveAttributes
 phpmyadmin2020
@@ -10161,7 +10094,6 @@ bins.txt
 old/wp-content/plugins/wp-file-manager/readme.txt
 service.yaml
 chatty
-config_shell.php
 .env_sample
 js/buttons.js
 examples/servlets/servlet/cookieexample
@@ -10177,7 +10109,6 @@ key_logged.txt
 servlet/controllerservlet
 system.log
 d00r_py3.py
-g00nshell-v1.3.php
 saya.php
 curl.sh
 src/appbundle/command/listuserscommand.php
@@ -10212,7 +10143,6 @@ log2mail
 dbhook
 admin_super
 common-lisp-controller
-login;/..;/admin
 cupones
 ui_config.properties
 jamie
@@ -10231,7 +10161,6 @@ __ma/
 adminer-4.7.0-en.php
 all/modules/ogdi_field/plugins/datatables/extras/tabletools/media/swf/zeroclipboard.swf
 efsoftware
-xshell.php
 ladders
 Bookmarks.txt
 config.yml.templ
@@ -10447,7 +10376,6 @@ T3AdminMain
 token.json
 phpmymanga
 updateUser
-static/..%3b
 tiki-admin.php
 wat.txt
 cracked.log
@@ -10679,7 +10607,6 @@ opc/services/ordertrackingintfport
 feedback
 allerr.sql
 account_edit.php
-webshell.cgi
 jhadmin/login.asp
 .reek
 helo
@@ -10771,7 +10698,6 @@ config/packages/test/web_profiler.yaml
 stanislav
 archimede
 sawbridge
-ZyklonShell.php
 member/js/lang_zh_cn.js
 build_tarball.sh
 data_11.sql
@@ -11218,14 +11144,12 @@ test/version_tmp/
 vendor/assets/stylesheets
 shop.sql
 olelist.php
-new%20folder%20(2)
 taskbar
 schudar
 leaks.rar
 phpmychat
 getredpack
 ubuntu-juju.sh
-obfuscated-phpshell.php
 loginz
 advantage
 fckeditor/editor/js/fckeditorcode_ie.js
@@ -11286,7 +11210,6 @@ eric
 achievo
 getIssues
 api/swagger/static/index.html
-content../.git/config
 .idea/mongosettings.xml
 cyphor
 users2023.txt
@@ -11399,7 +11322,6 @@ modifier
 Offline.txt
 servlet/testservlet
 2023.tar.gz
-josso/%5c../invoker/ejbinvokerservlet
 50787307
 var/lib/cloud/instance/obj.pkl
 mcdata
@@ -11443,7 +11365,6 @@ anda.html
 devel_isolated/
 geogate
 .pinerc
-lib../.git/config
 .codio
 defect
 jepsen.log
@@ -11633,7 +11554,6 @@ babel-plugin-dotenv/test/fixtures/dev-env/.env
 children
 install/make-config.php
 silverplatter
-shell.aspx
 tiny.php
 amphtml/.git/config
 administrator/pma/
@@ -11712,7 +11632,6 @@ manifest.json
 k-melon
 non-object-res.log
 xferlog
-shell.war
 logs/saves.log
 imc/reportscript/sqlserver/deploypara.properties
 tatham
@@ -11833,7 +11752,6 @@ api/v1/status/tsdb/rules
 lycos
 phpmyadmin2015/index.php
 thumbs/.env
-.dbshell
 description.xml
 login_db/
 wandsoft
@@ -11897,7 +11815,6 @@ bootstrap/data
 sites/defaults/settings.php
 fsu
 phpmyadmin-2.6.3-pl1
-cwshelldumper.php
 _cache/
 addresses
 plus/mytag.php
@@ -12144,7 +12061,6 @@ ntunnel_mysql.php
 lou
 spinnaker-pipeline.json
 tforum
-dC3_Security_Crew_Shell_PRiV.php
 default2
 ecw-cart
 wang.php
@@ -12181,7 +12097,6 @@ js/home.js
 url_1.sql
 dbase.sql.tar.gz
 solana.json
-ironshell.php
 USA.txt
 phpcms/modules/member/touzi.php
 clientaccesspolicy.xml
@@ -12318,7 +12233,6 @@ unicode-inc.pot
 uploads/.env
 newsticker
 wallets.zip
-New%20Folder
 bindUser
 transactions.log
 bucketcopy
@@ -12373,7 +12287,6 @@ portal/app_dev.php
 dexgp.php
 promos
 admin/test
-/evil.com/..;/css
 documentum
 admin_update.php
 oumi.php
@@ -12413,7 +12326,6 @@ c.php
 bb-admin/index.html
 ishopcart
 media/export-criteo.xml
-perl-reverse-shell.pl
 config/api-keys.json
 typo3conf/ext/static_info_tables/ext_tables.sql
 ukr.txt
@@ -12421,7 +12333,6 @@ accessgranted
 api/jsonws/expandocolumn/update-column
 gnocatan
 castor
-Antichat_Shell_v1.3.php
 abt
 Deduped
 administrators.php
@@ -12521,7 +12432,6 @@ config/bundles.php
 phuborihanrabop.html
 .gitlab-ci/.env
 mfr_admin
-iojs/%2e/WEB-INF/web.xml
 api/config
 .git.php
 soc.txt
@@ -12645,7 +12555,6 @@ admin/editor
 wwwlog
 events42
 doc-types
-Jsp反弹shell.txt
 actuator/loggingConfig
 frontend/web/debug/default/view
 nfusion
@@ -12699,7 +12608,6 @@ etnus
 dominik
 app/config/packages/test/webpack_encore.yml
 coolforum
-%62%61%73%65/%70%6f%73%74%2e%70%68%70
 siteturn
 script/process/spawner
 wp-config.local.php
@@ -12807,7 +12715,6 @@ talks
 LIVE
 charts/liveobjects/.env
 key.pem
-static../.git/config
 admin_alldel
 MFA.txt
 crm
@@ -12824,7 +12731,6 @@ squeakdebug.log
 discusware
 actuator/httptrace
 testDBREAD
-login.wdm%20
 qq.json
 passwordvault
 test-output
@@ -12909,7 +12815,6 @@ app/config/packages/test/twig.php
 senha
 crypto.log
 va26b34d3
-%20..
 compatible
 editor
 EMAILED.txt
@@ -12919,7 +12824,6 @@ WEB-INF/cas-servlet.xml
 lantinga
 wxuser
 stringsvc/uppercase
-;/..;/manager
 encrypt
 sessionmgr2.sql
 .js
@@ -12943,7 +12847,6 @@ codefresh.yml
 test-electron/.npmrc
 usr
 phpwordpress
-r57shell.php
 saveMaDate
 operation
 rr
@@ -12956,7 +12859,6 @@ sent.json
 _proxy
 downloads/
 bitrix/tools/mail_entry.php
-devshell.asp
 000003.log
 user/allroleinfo
 .mongodb.conf
@@ -12995,7 +12897,6 @@ base/exchange_article/index/classid/1/id/1
 sports
 admin/backups/
 putOrder
-devilzShell.asp
 get_token
 admin-header
 pic
@@ -13030,7 +12931,6 @@ tobias
 contact_us
 drepper
 switch
-lamashell.php
 names
 btd
 vizra
@@ -13071,7 +12971,6 @@ cyber-cats
 CHANGELOG.html
 backups/db_backup.sql
 users/login.php
-robots.txt%2e%2e%3B
 git-jira-log
 ssid
 salvado.txt
@@ -13199,7 +13098,6 @@ phpmyadmin-2.8.0-beta1
 orderView
 ngoen.gzip
 camz
-robots.txt../admin
 moderator.asp
 hensley
 content/add_valid_path_to_a_page/pagename.docview.json
@@ -13517,7 +13415,6 @@ PushTest
 getOders
 open-search.xml
 datatrac
-powershell
 ci/pipeline.yml
 claroline/phpmyadmin/index.php
 claris
@@ -13816,7 +13713,6 @@ selenium/
 ci-build-config.json
 files/socks4.txt
 authorization.config
-static%2e%2e%3b
 jolokia
 l2tpd
 soft-admin
@@ -14044,15 +13940,12 @@ sign-out
 g.php
 phppma
 pma2017
-simple-shell.jsp
 cleanuser
-xssshell-xsstunnell.zip
 .install/
 php.error.log
 SPS-3.0免杀.php
 network-client
 script/process
-vpn/../vpns/cfg/smb.conf
 deal-email
 meeting/
 lib/fileupload/filebrowser.php
@@ -14320,7 +14213,6 @@ sanity.sh
 admin_link.asp
 mysql
 fuseware
-config.inc.php%20copy.php
 promocao
 getWsIp
 doLoginOut
@@ -14382,7 +14274,6 @@ api/v1/user/all
 apiCGTT
 wp-config.php.part
 intel.json
-static/%2e%2e%3B
 kloy
 .lvimrc
 phpmyadmin2018/
@@ -14531,7 +14422,6 @@ call.zip
 sanchez
 i18nctxsample
 receipt
-shells.php
 installs.zip
 1.asp
 web/.git/config
@@ -14545,7 +14435,6 @@ dadosJson
 .vacation.cache
 compiler.debug.php
 encode-explorer_6.4/
-jspshell.jsp
 segments
 service.asmx
 pma
@@ -14851,7 +14740,6 @@ oftpd
 gateway
 httpclntsend
 updatephoto.sql
-..;/
 phish.db
 iissamples/exair/howitworks/codebrws.asp
 meta
@@ -14885,10 +14773,8 @@ build.local.xml
 ar
 fuzzymonkey
 admin-app/.env
-shell.elf
 kube-addons.sh
 jcdi-beans-webapp/jcdibean/singleton
-WebShell系列(一)---XML.txt
 sendct
 init-repo.sh
 pntresmailer
@@ -14938,7 +14824,6 @@ certs/ssl.key
 scheduled
 _wpeprivate
 bundles/kibana.style.css
-login.wdm%2e
 config/parameters_prod.xml
 faxes
 administer
@@ -15164,7 +15049,6 @@ uploads.php
 phppgadmin/
 Protonmail.txt
 clearswift
-josso/%5C../invoker/EJBInvokerServlet
 greenhousebywebsphere/docs
 conten/t.1.json
 events
@@ -15194,7 +15078,6 @@ loginH5
 config.inc.php-original
 ufs
 ME
-status/..;
 download/filesets
 phpmyadmin+++---/index.php
 site.tar.bz2
@@ -15224,7 +15107,6 @@ Proxies.txt
 user_secrets.yml.old
 phone.php
 logs/stats
-admin..;
 publishPic
 adminer-mysql.php
 adminlogin.js
@@ -15562,7 +15444,6 @@ test.json
 forum.tar.bz2
 solr/admin/info/system
 grabbed.html
-wp%e2%80%94admin/admin%e2%80%94ajax.php
 FCKeditor
 htaccess_for_page_not_found_redirects.htaccess
 modelsearch/login
@@ -15734,7 +15615,6 @@ softlandmark
 embed
 getCausali
 kgpg
-sitecore/shell/webservice
 phpMyAdmin-3.1.2.0-all-languages/
 app/config/packages/test/twig.xml
 elfinder/elfinder.php
@@ -15967,7 +15847,6 @@ readyz
 .users
 trivalie
 mtools
-tmp/madspotshell.php
 facetoface
 sybase
 license.zip
@@ -15994,7 +15873,6 @@ dedecms/login.php
 blocklist.gzip
 .dump
 epic
-level/16/exec/-/show%20startup-config
 bundles/login.bundle.js
 kacheCheck
 admin_modules
@@ -16089,7 +15967,6 @@ WEB-INF/rexip-web.xml
 .ssh.asp
 geocoder
 getTable
-fxcodeshell.jsp%20
 booktest
 api/axerve
 daotao
@@ -16255,7 +16132,6 @@ dodoswap-client/.env
 ugoq
 api/v1/label/__name__/values
 nstview.php
-boffmax_v1.0_web_shell_by_the-c0de_team(1).php
 wsnavigator/enterwsdl.html
 templates/beez3/
 login_admin.aspx
@@ -17023,8 +16899,6 @@ Trace.axd
 PublishScripts/
 metrics
 joke
-phpmyadmin!@%23!@%25$%5e&%25%5e%5e%25
-assets../.git/config
 video-pay
 jcdi-beans-webapp/ejb/stateless
 Readiness
@@ -17316,11 +17190,9 @@ phpMyAdmin-4/
 $metadata
 importCEDD
 asdfghjkl
-static/..;
 admin_menu.sql
 tour
 wd/hub
-plugin-shell.php
 rest/.env
 digex
 db/websql
@@ -17477,7 +17349,6 @@ global.asax.orig
 hammurapi
 ncp
 telindus
-read%20me.txt
 adminpage
 pg_hba.conf
 wwwsite
@@ -17591,7 +17462,6 @@ adminer-4.8.1-mysql.php
 flow/registries
 stalker_portal/c
 readme.md
-asset..
 huttenlocher
 intego
 msg.txt
@@ -17804,12 +17674,10 @@ getAuth
 app/config/packages/doctrine.yml
 scrum.zip
 classes
-static/..%3B
 impressions
 fruit
 drops.zip
 spamming.php
-WebShell.cgi.pl
 tellurian
 vendor/bundle
 test-oauth
@@ -17888,7 +17756,6 @@ start_tunnel.sh
 web.config_inc
 servers
 _tracks
-powershell/
 readme.php
 ssh
 access.dat
@@ -17942,7 +17809,6 @@ adminer-4.0.1-mysql.php
 api/dependencies
 loadPolicy
 .env.copy
-%61dmin
 Camera
 bpchart
 play/272/video.m3u8
@@ -18544,7 +18410,6 @@ pumpkin
 cgi-exe
 opener.txt
 inc/rsd.php
-static..%3b
 admin/admin-login.cfm
 khaosurabop.php
 wp-config.php_old2006
@@ -18633,7 +18498,6 @@ xml/
 .mail_aliases
 install_policy.sh
 shape
-sitecore/shell/sitecore.version.xml
 errormail
 borland
 webprojectdb
@@ -18730,7 +18594,6 @@ admin/controlpanel.asp
 venv.bak/
 credpf
 2phpmyadmin/index.php
-evil.com/..;/css
 v2/subscriptions
 planetinsanity.de
 microburst
@@ -19101,7 +18964,6 @@ holidays
 hTTgS.mdb
 homepage
 coinbase
-Dive_Shell_1.0_Emperor_Hacking_Team.php
 stopBatch
 servlet/Oracle.xml.xsql.XSQLServlet/xsql/lib/XSQLConfig.xml
 inspection
@@ -19295,7 +19157,6 @@ mysql.sql.gz
 wp-content/mu-plugins/
 opial
 php.
-sitecore/shell/webservice/service.asmx
 editor-4.0.2-en.php
 certenroll
 build-info
@@ -19317,9 +19178,7 @@ avatars
 phpmyadmin-2.8.0-rc1
 dropped.zip
 adminer-4.7.5-mysql-en.php
-aspxshell.aspx
 config/packages/dev/routing.php
-static../admin
 sqlgrey
 jsp/extension/login.jsp
 ReportServer/Pages/ReportViewer.aspx
@@ -19767,7 +19626,6 @@ get-token
 e-market
 admincurrency.php
 .dump.zip
-cybershell.php
 app/sys
 erl_crash.dump
 lexmark
@@ -19781,7 +19639,6 @@ allen
 86498ea142225a8c614af03fb5898289.php
 pkginfo
 web-inf/classes/hibernate.cfg.xml
-.nsf/../winnt/win.ini
 userSearch
 mysql/admin/index.php
 food_type
@@ -19794,7 +19651,6 @@ true
 blankol
 trlinux
 common.js
-robots.txt/%2e%2e%3B
 sh.sh
 fastpublish
 country
@@ -20176,7 +20032,6 @@ roundup
 zack
 getDictAll
 httppost
-ex0shell.php
 microstrategyws/happyaxis.jsp
 ocsp/
 APP
@@ -21250,7 +21105,6 @@ roxio
 pprof
 testpayok
 typo3temp
-jf%e5%bc%80%e5%a5%96%e5%99%a8/kj/config.js
 config/s3_config.json
 Bots
 adminer-4.0.3.php
@@ -21408,7 +21262,6 @@ phlymail
 zipcodes.txt
 homePage
 dates
-%e5%bc%80%e5%a5%96%e5%99%a8/kaijiang/config.js
 squiz
 cards
 owncloud/config/
@@ -21449,7 +21302,6 @@ app/config/bootstrap.php
 parks42
 footer.jsp
 technote
-%c0
 _logs/error.log
 .deployment
 runData
@@ -21680,7 +21532,6 @@ versatilebulletinboard
 blocklist.7z
 kinds
 gbot_pannel.zip
-img../.git/config
 monitor
 config.rb
 neenga.html
@@ -21764,7 +21615,6 @@ test/bdd/fixtures/couchdb/.env
 subirtxt
 upgrade.txt
 atmel
-kj2018(%e9%87%87%e9%9b%86%e5%99%a8)/config.js
 .ssh/id_dsa_key~
 e.php
 administr8
@@ -21797,7 +21647,6 @@ updateItem
 cgi.pl/
 dcam
 tijiao.txt
-shell.php
 fipsasp
 stealers.txt
 add_message.sh
@@ -22006,7 +21855,6 @@ sqlnet.log
 verylost
 formulario.html
 sales
-kj2016(%e9%87%87%e9%9b%86%e5%99%a8)/config.js
 jscripts
 negocios
 private
@@ -22016,7 +21864,6 @@ pc
 pty.
 sales.csv
 config/packages/test/routing.xml
-%e5%bc%80%e5%a5%96%e5%99%a8/nxkj2015/config.js
 alcatel
 0.mp3
 prueba.json
@@ -22105,7 +21952,6 @@ proxys
 exec.sh
 unregister
 securelogin
-shell.jsp
 xiaodai.php
 .filezilla/
 scope
@@ -22146,7 +21992,6 @@ thorfile
 api/system/debug/events/cluster
 logon.py
 admin/view/javascript/common.js
-Axis2Shell-master.zip
 layers.42
 estore/index.html
 rpcwithcert/
@@ -22394,7 +22239,6 @@ builders
 setConfig
 personal
 spear
-examples/jsp/%252e%252e/%252e%252e/manager/html/
 backup2012.sql
 bitrix
 logs.json
@@ -22410,10 +22254,8 @@ grayscale
 state.sql
 sa-exim
 vote.sql
-shells.jsp
 hc
 app.yaml
-shell.cfm
 fck_link
 adminer-4.7.8-mysql-en.php
 mail-test4
@@ -22433,7 +22275,6 @@ instance
 d.txt
 timesync
 item
-devshell.cfm
 bnb.txt
 respostas
 .xhtml
@@ -22521,7 +22362,6 @@ pincodes
 app/config/packages/test/twig.yaml
 snort/
 71983522
-shelled.txt
 server.config
 admin_user
 админ.txt
@@ -22557,7 +22397,6 @@ stressTest
 docs/authors.txt
 admin/web/index.php
 wls-wsat/CoordinatorPortType
-robots.txt/..;
 release.sh
 storage/.env
 time.php
@@ -22654,7 +22493,6 @@ WEB-INF/portlet.xml
 txt/
 pw
 squirrelcart
-tmp/cgishell.pl
 readme.html
 msg/
 2019.tgz
@@ -22853,7 +22691,6 @@ xiaoma.php
 next.config.js
 smb.conf
 .rapp.history
-devilzShell.php
 mysqldumper
 mailform
 marconi
@@ -23145,7 +22982,6 @@ bin.old
 que-dich
 .filezilla/sitemanager.xml~
 admin_review
-josso/%5c../invoker/jmxinvokerservlet
 pushs
 db_backup.rar
 phpfreenews
@@ -23198,7 +23034,6 @@ search.xml
 bookinfo.sql
 .codeintel
 code.get
-examples/jsp/%252e%252e/%252e%252e/manager/html
 snert
 debug/mysql_stats/schema
 dbg
@@ -23223,7 +23058,6 @@ author.dll
 mathworks
 datedb.sql
 addons/theme/stv2/_static/ts2/layout.css
-t57shell.php
 415.php
 discovery
 latest/user-data
@@ -23231,7 +23065,6 @@ redmine
 scan.txt
 intersystems
 skype
-c99shell.php
 .tfvars
 harald-kampen
 search.sql
@@ -23314,7 +23147,6 @@ e
 admin/send
 proxies1.txt
 nakedsoft
-s72_Shell_v1.1_Coding.php
 b3
 powerdev
 sys-user
@@ -23443,7 +23275,6 @@ daydream
 hideme.cpp
 administracion
 follows
-pwdshellru.php
 acceso.log
 ShowHotels
 kawf
@@ -23469,7 +23300,6 @@ sircd
 admin2.html
 actions
 Cliente
-static/../admin
 getCleaner
 Desktop
 groupdata
@@ -24297,7 +24127,6 @@ goto
 yacht-ci.yaml
 php.log
 defaults.properties
-123%e5%bc%80%e5%a5%96%e5%99%a8/config.js
 menu.php
 cotas
 connectors
@@ -24427,7 +24256,6 @@ backup.txt.gz
 q.php
 nagios/
 api/system/urlwhitelist/generate_regex
-GetShell.html
 some/route
 fullwebsite.sql
 config/appdata.config
@@ -24857,7 +24685,6 @@ phpMyAdmin-2.5.5-pl1/
 saveLocus
 davin
 nginx-server/.env
-robots.txt..;
 _tests
 manager.php
 github-merge.sh
@@ -24984,7 +24811,6 @@ confluence/spaces/removespace.action
 imgs
 matija
 molecule.yml
-shell/
 proxys.dat
 AdminVersion
 hebditch
@@ -25172,7 +24998,6 @@ logerrors
 Panels
 aptis
 .ssh/pi_rsa.pub
-public..
 setup_env.sh
 dump/
 complaint.txt
@@ -25337,7 +25162,6 @@ filtering
 wwwroot.tar
 pvs_scores
 wp-config.php.save.3
-GFS_web-shell_ver_3.1.7_-_PRiV8.php
 pavuk
 explain
 round
@@ -25586,7 +25410,6 @@ index.tar.bz2
 tmp/
 phonebook.sql
 config.inc.php.dump
-shellphish.txt
 snitz
 .ghc.environment
 leftz.txt
@@ -26045,7 +25868,6 @@ cloisterblog
 data.tar.gz
 baepfawm.json
 admin0002c623/login.php
-rootshell.php
 measure
 blog_admin
 dtlist
@@ -26098,7 +25920,6 @@ jcifs
 yerramsetti
 loginToken
 phpMyAdmin-3.3.4-rc1/
-b374k-mini-shell-php.php.php
 users/admin.htm
 chat.db
 menus-admin.inc.php
@@ -26383,7 +26204,6 @@ Clients
 coinbase.html
 wiz
 user-token
-wh_bindshell.py
 app_dev.php/_profiler
 invoker/readonly
 .old.env
@@ -26427,7 +26247,6 @@ access.asp
 editor-4.6.3.php
 editor-4.3.1-mysql-en.php
 phpMyAdmin-2.10.3/
-虚拟主机提权专用Webshell去后门版.asp
 gui
 applicattions
 secure/popups/userpickerbrowser.jspa
@@ -26553,7 +26372,6 @@ allwebscripts
 ci
 react_todo/.env
 omron
-static%2e%2e%3B
 toolkit
 td-agent.log
 idk.txt
@@ -26693,7 +26511,6 @@ lavalys
 __swagger__
 adminjdbc
 ultimatezip
-%75%73%65%72%2e%70%68%70
 admin/
 .pairs
 checkLink
@@ -26952,7 +26769,6 @@ sub7.txt
 ualert
 mima_abcd.jpg
 eric3
-javax.faces.resource...
 .eunit
 sitemap1.xml.gz
 tomcat/axis
@@ -27003,7 +26819,6 @@ cms-users
 Caller
 phpminiadmin.php
 _resources
-admin%20/page
 ncoverexplorer.exe.config
 ext/build
 util.pl
@@ -27548,7 +27363,6 @@ prweb/PRRestService/unauthenticatedAPI/v1/docs
 subpub
 Database_Backup/
 images/up.php
-%ff
 surecom
 estorno
 phpMyAdmin-2.6.2-rc1/
@@ -27642,7 +27456,6 @@ ca3de
 vtigercrm
 shaun2k2
 caligari
-cfmShell.cfm
 app.ini
 giraffe
 admin/dumper/
@@ -27830,7 +27643,6 @@ frontend.php
 getPrice
 config.inc.php.us
 hello.php
-ipc%24
 cdomain
 gocr
 api/metadata/get
@@ -28155,7 +27967,6 @@ appengine-generated/
 homework
 workspace.xml
 output-build.txt
-shell.pdf.php
 biztalkserver
 lookMyBill
 palagai.txt
@@ -28612,13 +28423,11 @@ admin_news.asp
 .idea/httpRequests/http-client.cookies
 terrorists
 sqltrace/index.html
-robots.txt/../admin
 isactive
 meta-inf
 sem
 houtai/login.php
 calcparam
-shells.elf
 showlogin/
 fckeditor/_samples/default.html
 gym.db.sql
@@ -28870,7 +28679,6 @@ class-1
 wxoillist
 Proxy.txt
 heathCheck
-phpliteadmin%202.php
 mattermost/
 admin_batch.asp
 contentadmin
@@ -28949,7 +28757,6 @@ rattel
 client.sql
 buffalo
 post.get
-web.config%20-%20copy
 wordpad
 my-class
 AssetFile
@@ -28972,7 +28779,6 @@ kj/kaijiang/config.js
 database/.env
 rewind
 shtml.exe
-cgishell.pl
 jinzora
 phuborihanrabop.txt
 fears
@@ -29052,7 +28858,6 @@ rdp.txt
 elements
 baan-rok-tuk.txt
 v3/altair
-..;
 ASPYDrvsInfo.php
 web-inf/conf/editors.properties
 missions
@@ -29172,7 +28977,6 @@ preferences.json
 shop/.env
 solr
 database/phpMyAdmin2/
-javax.faces.resource.../web-inf/web.xml.jsf
 manifest/cache/
 login_admin.html
 web.config_good
@@ -29260,7 +29064,6 @@ commands
 cpu.txt
 generate-authors.sh
 phpmanager
-devilzShell.cgi
 quantri
 silly
 admin_action
@@ -29312,7 +29115,6 @@ me.jpg
 project.lock.json
 druid/coordinator/v1/leader
 texinfo.tex
-shell.png.php
 phpmyadmin-2.11.6
 valicert
 php_news
@@ -29450,7 +29252,6 @@ hellowml.jsp
 nikki
 html.bak
 wallet.txt
-robots.txt/%2e%2e%3b
 public/home/js/check.js
 data/adminer.php
 adminrealm
@@ -29515,7 +29316,6 @@ log_h.jsp
 config/sql
 networks
 content/add_valid_path_to_a_page/pagename._jcr_content.feed
-robots.txt/..%3B
 ~system
 phpsavant
 PMA/
@@ -29760,7 +29560,6 @@ oauth/signin
 directip.sh
 vb.rar
 db/phpmyadmin2
-myshell.php
 admin-dev/export/
 junit-platform.properties
 courseforum
@@ -29779,7 +29578,6 @@ adminer.php
 tbl_user.sql
 bd
 phases
-js../.git/config
 298dfa4263831599097711415f99177b.php
 common/config/api.ini
 avantbrowser
@@ -29967,7 +29765,6 @@ static.conf
 api/v2/swagger-ui
 Alpha.zip
 ckfinder/ckfinder.html
-shell.ascx
 r8
 vttablet-up.sh
 revision.inc
@@ -30096,7 +29893,6 @@ wp-content/uploads/db.sql
 doc/api/
 cgi-bin/phpinfo.php
 bindVerify
-javax.faces.resource.../WEB-INF/web.xml.jsf
 admincp/login.asp
 run.txt
 solana.php
@@ -30249,7 +30045,6 @@ editor-4.3.1.php
 esesix
 mindjet
 storage.yml
-草莓webshell.asp
 api/dw/dwplugin/templatemanage/login_site.htm
 .sessions
 verify-generated-swagger-docs.sh
@@ -30319,7 +30114,6 @@ june.txt
 Company
 wp-config.php_old2010
 .well-known/est
-%69%73%70%69%72%69%74/%69%6d/%75%70%6c%6f%61%64%2e%70%68%70
 flexphpnews
 getsubcategorys.sql
 KITPANEL
@@ -30398,7 +30192,6 @@ singleton
 simplemail
 rating_common.xml
 cron2
-\..\..\..\..\..\..\..\..\..\etc\passwd
 Predator.php
 modules_admin
 Socks4.txt
@@ -30549,12 +30342,10 @@ edition
 var/log/dev.log
 cyrusoft
 silvernews
-php-tiny-shell.php
 translations.gzip
 pcc/vendor/phpunit/phpunit/src/util/php
 prox.php
 solstice
-星外-华众-新网-虚拟主机提权专用Webshell.asp
 install_2-0_sqlite.sql
 client.7z
 binControl
@@ -30717,7 +30508,6 @@ botss.json
 ffmpeg
 admin/data
 .pullapprove.yml
-spyshell.php
 index.php-bak
 ueditor/php/getRemoteImage.php
 trigger.yaml
@@ -30732,7 +30522,6 @@ authorization.sh
 layers
 uclog
 tour-list
-static..
 dataSource
 .svn/wc.db
 telcondex
@@ -30815,7 +30604,6 @@ admininitems.php
 fpsample
 mkimage-arch.sh
 minihttp
-fxcodeshell.jsp::$data
 sys/kbd/q
 Build.bat
 managers
@@ -30902,7 +30690,6 @@ base.tar.gz
 cstex
 kraken.zip
 phpmyadmin4
-css../.git/config
 deploy.tf
 specialty
 mpg123
@@ -31121,7 +30908,6 @@ cloud/aws-secret-keys.json
 DataFolder
 reset_pwd
 log/access.log
-SimShell_1.0_-_Simorgh_Security_MGZ.php
 admin_view.php
 app.rar
 .svn/all-wcprops
@@ -31147,7 +30933,6 @@ script/about
 deep_ping
 _img
 gtkftpd
-shell.jpg.php
 _tmp
 config.php.inc~
 rcblog
@@ -31272,7 +31057,6 @@ linkrules
 antifake
 task_control.sql
 siteitem
-%73%65%65%79%6f%6e/%68%74%6d%6c%6f%66%66%69%63%65%73%65%72%76%6c%65%74
 anyportal(php)
 sets.sql
 sql/myadmin/
@@ -31308,7 +31092,6 @@ subsz
 affiliates.txt
 stations.db
 .ftp-access
-evil%E3%80%82com
 sane
 mills
 panel-administracion/admin
@@ -31991,7 +31774,6 @@ mmmmm.txt
 botz
 isoglog
 raygun/
-%C0%AE%C0%AE%C0%AF
 test/bdd/fixtures/demo/.env
 selenium
 poweriso
@@ -32131,7 +31913,6 @@ aaiportal
 api/v1/query_range
 adminer-4.6.0-mysql-en.php
 pub/guiedit/guiedit.js
-%20../
 gameserver
 .AppleDesktop
 graphql-explorer
@@ -32201,7 +31982,6 @@ users.bz2
 index_new2
 pushNumber
 sylpheed
-404webshell.php
 cat.dat
 latex2rtf
 bnc
@@ -32571,7 +32351,6 @@ actions-config.yml
 vcd-db
 trezor
 accountsettings
-wshell.php
 eggblog
 .idea/workspace.xml
 adminsys
@@ -32785,7 +32564,6 @@ debug.sql
 .jscs.json
 eos
 localhost.rar
-devshell.md
 source
 join-about
 logs.htm
@@ -32862,7 +32640,6 @@ config/parameters_test.yaml
 src/server.js
 fu
 coupon.get
-.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/var/www/html/index.html
 config/packages/test/validator.xml
 api/views/search/messages
 cliserv
@@ -32896,7 +32673,6 @@ Telerik.Web.UI.DialogHandler.aspx
 softek
 .styleci.yml
 nodata
-hsqldb%0a
 a1b2c3d4
 admin_sync
 push_token
@@ -33417,7 +33193,6 @@ xrp.json
 admin_usrmgr
 gafware
 new
-%ff/
 .mwsql_history
 2001
 variables
@@ -33432,7 +33207,6 @@ spice
 admincontrol.js
 portal.do
 administrator
-kj/%e6%96%b0%e8%9c%82%e5%bc%80%e5%a5%96%e5%99%a8/config.js
 morningstar
 carrigan
 owned
@@ -33480,7 +33254,6 @@ mkimage-debootstrap.sh
 getMessage
 benchmark-go.sh
 api/users/all
-%e9%87%87%e9%9b%86/config.js
 bc.sql
 wp-logins.php
 oldsite/wp-admin/install.php
@@ -33832,7 +33605,6 @@ logger
 urban-code.yaml
 textor
 bans.txt
-shells.py
 teluguadmin
 dump.bz2
 admin/proxy
@@ -33960,7 +33732,6 @@ cos-iv
 samedia
 ApiMatch
 Query
-php-findsock-shell.php
 py-compile
 comnames
 debug/query_plans
@@ -34066,7 +33837,6 @@ ddl_dml.sql
 applicationadminprovider
 storageEnd
 phpmyadmin3/scripts/setup.php
-PHP-Shell-Detector-master.zip
 sysadmin/
 ycportal/js/wbtextbox/showimg.jsp
 packages/plugin-qiankun/examples/app3/.env
@@ -34090,7 +33860,6 @@ phpMyAdmin-2.11.0.0/
 user/stats
 adminmysql/scripts/setup.php
 sendotp
-robots.txt%2e%2e%3b
 clothe
 uploadfiles
 config_debug.php
@@ -34928,7 +34697,6 @@ libraries/tiny_mce
 employees/.pac
 feed.zip
 FCKeditor21/
-sitecore/shell/webservice/service2.asmx
 backupdb
 application.log
 gmail/gmail.txt
@@ -35430,7 +35198,6 @@ index123b
 .rts2_cache_cjs
 botpanel.html
 phpmyadmi/index.php
-nginx_access.log1%20{${phpinfo()}}
 www.tar.bz2
 wang.txt
 storage-capacity
@@ -35801,7 +35568,6 @@ SiteServer/Admin/commerce/foundation/driver.asp
 aardvark
 .jenkins.yml
 kodak
-josso/%5C../invoker/JMXInvokerServlet
 pages/xsrferror.jsp
 admin/fckeditor/editor/filemanager/upload/php/upload.php
 soap/servlet/spy
@@ -35999,7 +35765,6 @@ superma.php
 phpmyadmin-old/index.php
 creation
 javascript
-Micro_Webshell.php
 fishfarm
 aps
 corp.
@@ -36167,7 +35932,6 @@ phpgreetz
 2012.sql
 correos-electronicos.gzip
 panel-administracion/login.cgi
-spjspshell.jsp
 db.php
 Fulls.txt
 js/ajax_x.js
@@ -36291,7 +36055,6 @@ logins_valid.txt
 admin/.config
 new_license.php
 tesla.txt
-shell.sh
 uci.sh
 pma-old/index.php
 ccp14admin/
@@ -36484,7 +36247,6 @@ phpMyAdmin-2.7.6/
 rã¸d.
 Person
 sql/scripts/setup.php
-Read%20Me.txt
 heat-on
 backedup
 student.sql
@@ -36993,7 +36755,6 @@ UploadFile
 config.php.new
 jserr
 vendor/composer/autoload_namespaces.php
-devilzShell.jsp
 kho
 .bkp
 muller
@@ -37052,7 +36813,6 @@ uptimes
 templates/system/
 lib/flex/uploader/.flexProperties
 jobLog
-%2e%2e;/test
 ACat-附数据库驱动.jar
 linpha
 admin/sqladmin
@@ -37181,7 +36941,6 @@ pirate
 account/signup
 .svn/text-base/
 config/settings/app.py
-robots.txt..%3B
 __history/
 v4/altair
 install.php
@@ -37195,7 +36954,6 @@ acrabit
 test001
 scriptText
 arnold
-mod_joomla_shell.zip
 derek
 auth.conf
 geofences
@@ -37392,7 +37150,6 @@ check.htm
 seoadmin
 cubecart
 emr_types
-web.config%20copy
 packager.sh
 ghttpd
 rtc
@@ -37427,11 +37184,9 @@ integrated
 olate
 case_pick
 web-console/applet.jsp
-shell.jpeg.php
 bot.txt
 ci/distelli.yml
 brasil.txt
-shell.asp
 route
 wp/wp-content/plugins/plugins/greengo.php
 gnomedia
@@ -37908,7 +37663,6 @@ administrator/account.js
 emails.config
 fckeditor
 administrator.zip
-servlet/%c0%ae%c0%ae%c0%af
 deleteRole
 sap/xml
 web_jan.config
@@ -37961,7 +37715,6 @@ secret
 config.php.bak
 stalker
 threads
-robots.txt..%3b
 kube-controller-manager.log
 传说中的草泥马4.0.asp
 intranet
@@ -38201,7 +37954,6 @@ bookmark4u
 crypted.txt
 sourceworkshop
 old.php
-load_shell.php
 Bins
 dbdump.sql.tar.gzip
 .ssh/id_dsa.pub~
@@ -38249,7 +38001,6 @@ banko.txt
 env/example/.env
 docmgr
 cvs/root
-static/%255c%255c..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/windows/win.ini
 error.sh
 Twitter.txt
 .syncignore
@@ -38294,7 +38045,6 @@ Login.php
 api/metadata/put
 resource
 InstalledFiles
-%e5%bc%80%e5%a5%96%e5%99%a8/kj/config.js
 nod32
 swagger-ui/o2c.html
 nsw/
@@ -38460,7 +38210,6 @@ hitweb
 .env.ci
 bea_wls_internal/psquare/x.jsp
 v2/_catalog
-a%5c.aspx
 Dockerrun.aws.json
 thiep
 geonetwork
@@ -38500,7 +38249,6 @@ nano.save
 zhk.php
 verifyotp
 82725607
-..;/examples/jsp/index.html
 applejuice
 kdbg
 gabriele
@@ -38572,7 +38320,6 @@ kloss
 phpmyadmin-2
 setup-legacy.sh
 alertmanager/api
-admin%24
 teamcity/config.json
 admininistration
 CyberSpy5.Asp
@@ -38584,7 +38331,6 @@ login_sid.lua
 thinkfactory.de
 powerarchiver
 bookmarks.sql
-nice%20ports%2c/tri%6eity.txt%2ebak
 betaparticle
 wordpress/wp-admin/setup-config.php
 plus/qiang.php
@@ -38698,7 +38444,6 @@ cms/themes/cp_themes/default/images/swfupload_f9.swf
 tmp/domaine.php
 web/phpMyAdmin/
 filetransfer
-Cgishell.pl
 .prettierrc
 deleteTask
 baseline
@@ -38792,7 +38537,6 @@ bsd
 galerie
 cashout.txt
 pcf
-..;/examples/websocket/index.xhtml
 managers/proxy.pac
 tmui/login.jsp
 send.sh
@@ -38908,7 +38652,6 @@ edit-video
 cleanup
 myserver.key
 migration
-admin%ext%
 relogin.asp
 app/config/packages/dev/swiftmailer.xml
 admin_login.htm
@@ -38954,7 +38697,6 @@ elog
 deduped.txt
 indynews
 id.zip
-tmp/Cgishell.pl
 .ssh/id_rsa
 666666.php
 myblog-admin
@@ -39096,7 +38838,6 @@ vintela
 eyeos
 zhontai
 member.sql.tar.gz
-shellcode_generate.py
 make-flash8.sh
 dbadmin.sql.7z
 2014.tar.bz2
@@ -39175,7 +38916,6 @@ app/etc/local.xml
 factorys
 imageall
 xgadmin.asp
-servlet/%C0%AE%C0%AE%C0%AF
 wp-config.php.sample
 appenv
 admin_profile.php
@@ -39556,7 +39296,6 @@ api/v1/query
 -/liveness
 web.config.tmp
 upland
-content/../libs/foundation/components/text/text.jsp
 worldmusic/action/cdlist
 energymech
 samsung
@@ -39586,9 +39325,7 @@ shopcustadmin
 s_api/basic/config_js
 prepublish.sh
 sourcecodeviewer
-events../.git/config
 scalyr
-js/common.js%20
 link-vmlinux.sh
 facets
 getUserPOC
@@ -39629,7 +39366,6 @@ j2ee/servlet/snoopservlet
 config.inc.php.zip
 dashu.php
 build-images.sh
-KAdot_Universal_Shell_v0.1.6.php
 logs/traffic.log
 subjects.gzip
 update-authors.sh
@@ -39714,7 +39450,6 @@ user
 content/add_valid_path_to_a_page/_jcr_content.feed
 www.sql.tar.bzip2
 notifiers
-New%20folder%20(2)
 .skaffold.yaml
 taskType
 eject
@@ -39842,7 +39577,6 @@ botted
 actuator;/env;
 okay
 includeg
-yesthisisareallylongrequesturlbutwearedoingitonpurposewearescanningforresearchpurposepleasehavealookattheuseragentthxyesthisisareallylongrequesturlbutwearedoingitonpurposewearescanningforresearchpurposepleasehavealookattheuseragentthxyesthisisareallylongrequesturlbutwearedoingitonpurposewearescanningforresearchpurposepleasehavealookattheuseragentthxyesthisisareallylongrequesturlbutwearedoingitonpurposewearescanningforresearchpurposepleasehavealookattheuseragentthxyesthisisareallylongrequesturlbutwearedoingitonpurposewearescanningforresearchpurposepleasehavealookattheuseragentthxyesthisisareallylongrequesturlbutwearedoingitonpurposewearescanningforresearchpurposepleasehavealookattheuseragentthxyesthisisareallylongrequesturlbutwearedoingitonpurposewearescanningforresearchpurposepleasehavealookattheuseragentthxyesthisisareallylongrequesturlbutwearedoingitonpurposewearescanningforresearchpurposepleasehavealookattheuseragentthxyesthisisareallylngrequesturlbutwearedoingitonpurposewearescann
 like
 alan
 lists.mp3
@@ -40067,7 +39801,6 @@ screens
 app/config/packages/test/validator.php
 checkPlus
 pay-info
-..;/manager/html
 CFIDE/administrator/images/background.jpg
 path
 config-external.sh
@@ -40330,7 +40063,6 @@ admin_ug_auth.php
 adminer-4.3.1-en.php
 appZdLogin
 ircnet
-api../server-status
 goPassword
 wp-config.tar.gz
 skins
@@ -40343,7 +40075,6 @@ admin_photo.php
 tetex
 map-pop-up
 gradle/
-static..;
 inbound
 intershop
 ja
@@ -40361,7 +40092,6 @@ controllers
 logs_backup
 echo-get
 rest/
-madspotshell.php
 memadmin
 liquibase
 admincontrol/login.html
@@ -40596,7 +40326,6 @@ sims.txt
 lead
 sambot-elektronik.txt
 you.gif
-robots.txt/..%3b
 make_defconfig.sh
 swagger-ui
 "the
@@ -40735,7 +40464,6 @@ wp-content/plugins/portable-phpmyadmin/wp-pma-mod/index.php
 pk1914.php
 demos.txt
 admin99
-shell.jpg
 db-admin/
 www.tgz
 ssl/certificate.pem
@@ -40928,7 +40656,6 @@ pentadbirsistem.html
 extract.txt
 .ssh/identity
 cont_admin.tpl.html
-xnonymoux_webshell_ver_1.0.php
 .idq
 sphinxsearch/sphinx.conf
 hotwebscripts
@@ -40954,7 +40681,6 @@ auth/login.jsp
 adminitem.php
 polish.txt
 .env.new
-c999shell.php
 supervise/login.htm
 .msmtprc
 rewards
