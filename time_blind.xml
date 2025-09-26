@@ -1533,9 +1533,9 @@
         <risk>1</risk>
         <clause>1,2,3,9</clause>
         <where>1</where>
-        <vector>AND IF NOT(SUBSTRING((SELECT @VERSION),[RANDNUM],1) < [RANDNUM]) WAITFOR DELAY '0:0:[SLEEPTIME]'</vector>
+        <vector>AND IF NOT(SUBSTRING((SELECT @VERSION),[RANDNUM],1) &lt; [RANDNUM]) WAITFOR DELAY '0:0:[SLEEPTIME]'</vector>
         <request>
-            <payload>AND IF NOT(SUBSTRING((SELECT @VERSION),[RANDNUM],1) < [RANDNUM]) WAITFOR DELAY '0:0:[SLEEPTIME]'</payload>
+            <payload>AND IF NOT(SUBSTRING((SELECT @VERSION),[RANDNUM],1) &lt; [RANDNUM]) WAITFOR DELAY '0:0:[SLEEPTIME]'</payload>
         </request>
         <response>
             <time>[SLEEPTIME]</time>
