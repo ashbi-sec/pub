@@ -8,6 +8,9 @@ Proxi.txt
 rtc-media
 2001.tar.gz
 telecommuting
+auth/jwt/register
+auth-demo/register/classic
+auth-demo/register/modern
 wp-links-opml
 fastify
 x
